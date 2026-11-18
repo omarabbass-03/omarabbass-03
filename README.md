@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Omar Abbass 👋</h1>
-<h3 align="center">Software Developer · Full-Stack (React & Laravel) · MSc CS student at Lodz University of Technology</h3>
+<h3 align="center">Full-Stack Developer · Next.js · React · TypeScript · MSc CS student at Lodz University of Technology</h3>
 
 <p align="center">
   <a href="mailto:abbass.omar@outlook.com"><img src="https://img.shields.io/badge/Email-abbass.omar%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
@@ -11,32 +11,39 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science graduate currently pursuing a **Master's in Computer Science and Information Technology** at **Lodz University of Technology**. I build across the stack — from responsive, user-focused interfaces to backend services backed by SQL databases.
+I'm a **full-stack developer focused on Next.js**, currently pursuing a **Master's in Computer Science and Information Technology** at **Lodz University of Technology**. I build complete web applications end to end — server-rendered React interfaces, API routes and server logic, and SQL-backed data layers — all in **TypeScript**.
 
+- ▲ Building full-stack apps with **Next.js** (App Router, Server Components, Route Handlers)
 - 🔌 Built the **GIS and frontend** of a real-time **Digital Twin** for a three-phase electrical network
-- 🍲 Co-founded **Cookia**, a home-chef marketplace app — designed the full UI/UX and built its React frontend
-- 🧱 Delivered **4+ full-stack projects** with **React** and **Laravel**
+- 🍲 Co-founded **Cookia**, a home-chef marketplace app — designed the full UI/UX and built its frontend in React, TypeScript and Tailwind CSS
+- 🧱 Delivered **4+ full-stack projects** with React on the frontend and Laravel/PHP on the backend
 - 🧠 Background in AI foundations: statistics, optimization, neural networks & deep learning
-- 🌱 Currently deepening my skills in software engineering and modern web architecture
+- 🌱 Currently going deeper into Next.js performance, rendering strategies and full-stack architecture
 - 💬 Languages: Arabic (native), English (C1)
 
 ---
 
 ## 🛠️ Tech Stack
 
+**Core Full-Stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -109,7 +116,7 @@ A cooking app connecting **home chefs** with people looking for home-cooked and 
 
 ## 🤝 Let's Connect
 
-I'm open to **software development internships and junior roles** — especially in frontend or full-stack web development.
+I'm open to **full-stack developer internships and junior roles** — especially teams building with **Next.js, React and TypeScript**.
 Feel free to reach out at **[abbass.omar@outlook.com](mailto:abbass.omar@outlook.com)** or on **[LinkedIn](https://linkedin.com/in/omar-abbass-77b813226)**.
 
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>
