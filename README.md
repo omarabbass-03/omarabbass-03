@@ -4,6 +4,7 @@
 <p align="center">
   <a href="mailto:abbass.omar@outlook.com"><img src="https://img.shields.io/badge/Email-abbass.omar%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/omar-abbass-77b813226"><img src="https://img.shields.io/badge/LinkedIn-Omar%20Abbass-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/omarabbass-03"><img src="https://img.shields.io/badge/GitHub-omarabbass--03-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/Location-Łódź%2C%20Poland-555?style=flat&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
@@ -30,7 +31,6 @@ I'm a **full-stack developer focused on Next.js**, currently pursuing a **Master
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -108,8 +108,8 @@ A cooking app connecting **home chefs** with people looking for home-cooked and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omarabbass-03&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarabbass-03&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 ---
