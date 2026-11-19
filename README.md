@@ -121,5 +121,3 @@ A cooking app connecting **home chefs** with people looking for home-cooked and 
 
 I'm open to **full-stack developer internships and junior roles** — especially teams building with **Next.js, React and TypeScript**.
 Feel free to reach out at **[abbass.omar@outlook.com](mailto:abbass.omar@outlook.com)** or on **[LinkedIn](https://linkedin.com/in/omar-abbass-77b813226)**.
-
-<p align="center"><i>Thanks for stopping by! ⭐</i></p>
